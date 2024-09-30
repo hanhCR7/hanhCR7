@@ -17,9 +17,9 @@
 - **Hệ điều hành**: [Linux, Windows, ...]
 
 ## 📊 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanhCR&&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanhCR7&show_icons=true&theme=radical)
 
 ## 📫 Liên hệ với tôi
-- Email: [your-email@example.com](mailto:hanhavicii@gmail.com)
-- GitHub: [@ten-github-cua-ban](https://github.com/hanhCR7)
+- Email: [hanhavicii@gmail.com]
+- GitHub: [https://github.com/hanhCR7]
 
