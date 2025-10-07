@@ -1,7 +1,7 @@
 # Xin chào, tôi là HanhCoder👋
 
 ## 👨‍💻 Về tôi
-- 🎓 Tôi hiện đang là sinh viên năm 4, trương HUMG
+- 🎓 Tôi hiện đang là sinh viên năm 4, Trường HUMG
 - 💼 Tôi đang làm việc với Django, FastAPI
 - 🌱 Tôi đang tìm hiểu thêm về API, micro service, ..
 - 🤝 Tôi luôn sẵn lòng hỗ trợ và cộng tác trong các dự án mã nguồn mở.
